@@ -22,3 +22,7 @@ status-website:
       
 i18n:
   footer: "[Learn about ◉ Syfr](https://syfr.app)"
+  allSystemsOperational: "🟢 All systems operational"
+  up: "🟢 Up"
+
+skipPoweredByReadme: true
