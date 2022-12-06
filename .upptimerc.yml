@@ -20,8 +20,9 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+      
 i18n:
-  footer: [Learn about Syfr](https://syfr.app)
+  footer: "[Learn about Syfr](https://syfr.app)"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
