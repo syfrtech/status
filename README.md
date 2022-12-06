@@ -1,4 +1,4 @@
-# [📈 Live Status](https://upptime.github.io/upptime): <!--live status--> **🟢 All systems operational**
+# [📈 Live Status](https://status.syfr.app): <!--live status--> **🟢 All systems operational**
 
 [![Uptime CI](https://github.com/syfrtech/status/workflows/Uptime%20CI/badge.svg)](https://github.com/syfrtech/status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/syfrtech/status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/syfrtech/status/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -17,10 +17,4 @@
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://upptime.github.io/upptime)
-
-## 📄 License
-
-- Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [Upptime](https://upptime.js.org)
-- Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
+[**Visit our status website →**](https://status.syfr.app)
