@@ -4,7 +4,7 @@
     "url": "https://syfr.app",
     "icon": "https://icons.duckduckgo.com/ip3/syfr.app.ico",
     "slug": "syfr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 348,
     "timeMonth": 395,
     "timeYear": 403,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-26": 0
+    }
   },
   {
     "name": "Syfr Dev Playground",
