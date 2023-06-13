@@ -1,7 +1,7 @@
 url: https://syfr.app
-status: up
-code: 200
-responseTime: 293
-lastUpdated: 2023-06-12T23:11:13.286Z
+status: down
+code: 500
+responseTime: 6776
+lastUpdated: 2023-06-13T19:13:57.973Z
 startTime: Tue Dec 06 2022 02:53:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
