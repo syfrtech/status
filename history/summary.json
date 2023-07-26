@@ -4,19 +4,19 @@
     "url": "https://syfr.app",
     "icon": "https://icons.duckduckgo.com/ip3/syfr.app.ico",
     "slug": "syfr",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.97%",
     "time": 438,
-    "timeDay": 331,
-    "timeWeek": 454,
-    "timeMonth": 406,
+    "timeDay": 350,
+    "timeWeek": 447,
+    "timeMonth": 405,
     "timeYear": 438,
     "dailyMinutesDown": {
-      "2023-07-26": 1,
+      "2023-07-26": 9,
       "2023-06-13": 80,
       "2023-05-26": 22
     }
@@ -26,19 +26,19 @@
     "url": "https://develop-api.syfr.app/playground",
     "icon": "https://icons.duckduckgo.com/ip3/develop-api.syfr.app.ico",
     "slug": "syfr-dev-playground",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 240,
-    "timeDay": 87,
-    "timeWeek": 262,
-    "timeMonth": 218,
+    "timeDay": 181,
+    "timeWeek": 263,
+    "timeMonth": 220,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2023-07-26": 0
+      "2023-07-26": 9
     }
   }
 ]
