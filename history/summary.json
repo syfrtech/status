@@ -6,17 +6,16 @@
     "slug": "syfr",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 438,
-    "timeDay": 350,
-    "timeWeek": 447,
-    "timeMonth": 405,
+    "timeDay": 400,
+    "timeWeek": 465,
+    "timeMonth": 409,
     "timeYear": 438,
     "dailyMinutesDown": {
-      "2023-07-26": 9,
       "2023-06-13": 80,
       "2023-05-26": 22
     }
@@ -28,17 +27,15 @@
     "slug": "syfr-dev-playground",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 240,
-    "timeDay": 181,
-    "timeWeek": 263,
-    "timeMonth": 220,
+    "timeDay": 266,
+    "timeWeek": 245,
+    "timeMonth": 223,
     "timeYear": 240,
-    "dailyMinutesDown": {
-      "2023-07-26": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
