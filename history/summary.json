@@ -27,8 +27,8 @@
     "slug": "syfr-dev-playground",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 238,
@@ -37,7 +37,7 @@
     "timeMonth": 217,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2023-09-27": 0
+      "2023-09-27": 2
     }
   }
 ]
