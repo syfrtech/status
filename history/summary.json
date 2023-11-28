@@ -4,7 +4,7 @@
     "url": "https://syfr.app",
     "icon": "https://icons.duckduckgo.com/ip3/syfr.app.ico",
     "slug": "syfr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 314,
     "timeYear": 413,
     "dailyMinutesDown": {
+      "2023-11-28": 0,
       "2023-06-13": 80,
       "2023-05-26": 22
     }
@@ -26,18 +27,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/develop-api.syfr.app.ico",
     "slug": "syfr-dev-playground",
     "status": "down",
-    "uptime": "82.63%",
+    "uptime": "82.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "82.63%",
+    "uptimeYear": "82.57%",
     "time": 238,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2023-11-28": 64,
+      "2023-11-28": 444,
       "2023-11-27": 1440,
       "2023-11-26": 1440,
       "2023-11-25": 1440,
