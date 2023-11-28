@@ -6,9 +6,9 @@
     "slug": "syfr",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 413,
     "timeDay": 396,
@@ -16,7 +16,7 @@
     "timeMonth": 314,
     "timeYear": 413,
     "dailyMinutesDown": {
-      "2023-11-28": 0,
+      "2023-11-28": 10,
       "2023-06-13": 80,
       "2023-05-26": 22
     }
@@ -38,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 238,
     "dailyMinutesDown": {
-      "2023-11-28": 444,
+      "2023-11-28": 454,
       "2023-11-27": 1440,
       "2023-11-26": 1440,
       "2023-11-25": 1440,
