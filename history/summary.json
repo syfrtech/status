@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 398,
-    "timeDay": 388,
-    "timeWeek": 349,
-    "timeMonth": 380,
+    "timeDay": 311,
+    "timeWeek": 342,
+    "timeMonth": 381,
     "timeYear": 424,
     "dailyMinutesDown": {
       "2024-11-04": 18
@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/develop-api.syfr.app.ico",
     "slug": "syfr-dev-playground",
     "status": "down",
-    "uptime": "49.17%",
+    "uptime": "49.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "28.58%",
+    "uptimeYear": "28.85%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -293,8 +293,7 @@
       "2024-03-04": 1440,
       "2024-03-03": 1440,
       "2024-03-02": 1440,
-      "2024-03-01": 1440,
-      "2024-02-29": 1440
+      "2024-03-01": 1440
     }
   }
 ]
