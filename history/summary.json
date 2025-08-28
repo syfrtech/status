@@ -6,14 +6,14 @@
     "slug": "syfr",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "92.35%",
+    "uptimeDay": "95.23%",
     "uptimeWeek": "98.91%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.97%",
     "time": 448,
-    "timeDay": 334,
-    "timeWeek": 369,
-    "timeMonth": 474,
+    "timeDay": 355,
+    "timeWeek": 380,
+    "timeMonth": 477,
     "timeYear": 454,
     "dailyMinutesDown": {
       "2025-08-27": 110,
@@ -32,7 +32,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "78.68%",
+    "uptimeYear": "78.72%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -115,8 +115,7 @@
       "2024-09-01": 1440,
       "2024-08-31": 1440,
       "2024-08-30": 1440,
-      "2024-08-29": 1440,
-      "2024-08-28": 1440
+      "2024-08-29": 1440
     }
   }
 ]
